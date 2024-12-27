@@ -1,16 +1,22 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>GitHub Profile Header</title>
-    <link rel="stylesheet" href="styles.css">
-</head>
-<body>
+# My GitHub Profile
 
-<div class="header">
-    <h1>My GitHub Profile</h1>
-    <p> Ya krutoy specialist !</p>
-</div>
+### Hi there! 👋  
+Ya krutoy specialist!
 
-</body>
-</html>
+---
+
+## About Me 🚀
+- 🌟 **I specialize in:** Web Development, Python, and Algorithms  
+- 📫 **Contact me at:** [your_email@example.com](mailto:your_email@example.com)  
+- 🌍 **Portfolio:** [www.myportfolio.com](https://www.myportfolio.com)  
+
+---
+
+## GitHub Stats 📊
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+
+---
+
+## Connect with Me 🤝
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/yourprofile)  
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/yourprofile)
