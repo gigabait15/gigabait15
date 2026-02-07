@@ -1,23 +1,41 @@
-# Привет! 👋
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3399FF&center=true&vCenter=true&width=435&lines=Привет!+Я+Gigabait15;Fullstack+Developer;Любитель+чистого+кода" alt="Typing SVG" />
+</div>
 
-Я — разработчик Python с опытом создания веб-приложений. В моем профиле вы найдете несколько проектов, над которыми я работал.
+### 🛠 Мой стек технологий
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,js,ts,react,nodejs,python,docker,postgres&perline=6" />
+</div>
 
-## 🛠️ Мои проекты
+---
 
-Это не все мои проекты, а только часть из них (чтобы не расстягивать данное описание). Для ознакомления со всеми проектами [нажмите сюда](https://github.com/gigabait15?tab=repositories) и перед вами откроется список всех моих проектов.
+### 📊 Моя статистика GitHub
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gigabait15&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" align="center" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigabait15&layout=compact&theme=tokyonight&hide_border=true" align="center" height="170" />
+</div>
 
-- [**CMC**](https://github.com/gigabait15/CMC.git): Веб проект для доступа к актуальным данных криптовалютного рынка.
-- [**FastAPI_Like**](https://github.com/gigabait15/FastAPI_Like.git): API веб приложения на FastAPI для сайта знакомств(является MVP).
-- [**online_platform**](https://github.com/gigabait15/online_platform.git): Тестовое задание, реализация API на Django. Была задача в реализации торговой сети электроники(мониторинг передвижения, актуальности, статистики).
-- [**test_QA**](https://github.com/gigabait15/test_QA.git): Тестовый проект с использование Selenium для тестирование работы функционала на сайте.
-- [**FlaskYa**](https://github.com/gigabait15/FlaskYa.git): MVP приложение для просмотра и скачивания данных с Я.Диска с использование Flask, API Яндекс.Диска.
-- [**goldenapple**](https://github.com/gigabait15/goldenapple.git): Скрипт для сбора данных с интернет магазина парфюмерии. Данный проект был для нового магазина парфюмерии, которому нужны данные для анализа и закупки товара, имеющего повышенный спрос.
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gigabait15&theme=tokyonight&hide_border=true" />
+</div>
 
-## 📫 Связаться со мной
+---
 
-- Telegram: [t/me](https://t.me/Gigabait15)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/evgenii-kerbecov-b08083339/)
+### 🏆 Достижения
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gigabait15&theme=tokyonight&no-bg=true&column=4" />
+</div>
 
-Буду рад сотрудничеству и новым проектам!
+---
 
+### 📫 Как со мной связаться
+<div align="center">
+  <a href="https://t.me/твой_логин" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:твой_email@mail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</div>
 
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=gigabait15&color=blue&style=flat-square&label=Просмотры+профиля" alt="Views" />
+</div>
