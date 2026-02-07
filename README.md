@@ -18,29 +18,26 @@
 </div>
 
 ---
-
-### 📊 Статистика языков (все репозитории)
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigabait15&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Langs" />
-</div>
-
----
-
-### 📈 Общая активность
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gigabait15&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" />
-</div>
+### 📊 Моя активность
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gigabait15&show_icons=true&theme=transparent&title_color=3399FF&text_color=ffffff&icon_color=3399FF&hide_border=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigabait15&layout=compact&theme=transparent&title_color=3399FF&text_color=ffffff&hide_border=true" alt="Top Langs" />
+</p>
 
 ---
 
 ### 📫 Связь со мной
-<div align="center">
-  <a href="https://t.me/твой_логин" target="blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:твой_email@mail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</div>
+<p align="center">
+  <a href="https://t.me/Gigabait15" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:jackkerbecov@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
-<br />
+---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gigabait15&color=blue&style=flat-square&label=Просмотры+профиля" />
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/gigabait15/count.svg" alt="Profile Views" />
+</p>
