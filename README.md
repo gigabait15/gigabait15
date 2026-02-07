@@ -12,32 +12,29 @@
 
 ---
 
-### 🛠 Стек технологий
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,rust,js,fastapi,postgres,redis,docker,git,github,linux&perline=6" />
-</div>
-
----
-### 📊 Моя активность
+### 📊 Моя статистика
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gigabait15&show_icons=true&theme=transparent&title_color=3399FF&text_color=ffffff&icon_color=3399FF&hide_border=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gigabait15&layout=compact&theme=transparent&title_color=3399FF&text_color=ffffff&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gigabait15&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gigabait15&theme=tokyonight&area=true&hide_border=true" width="100%" />
 </p>
 
 ---
 
 ### 📫 Связь со мной
 <p align="center">
-  <a href="https://t.me/Gigabait15" target="_blank">
+  <a href="https://t.me/Gigabait15" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:jackkerbecov@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/gigabait15/count.svg" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gigabait15&color=3399FF&style=flat-square&label=PROFILE+VIEWS" />
 </p>
