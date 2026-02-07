@@ -4,7 +4,7 @@
 
 ### 🛠 Мой стек технологий
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,docker,redis,rabbitmq,postgres,git,github,html,css,js,ts,react&perline=6" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,redis,rabbitmq,postgres,git,github,html,css,js,ts,react&perline=6" />
 </div>
 
 ---
