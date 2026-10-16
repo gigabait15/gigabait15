@@ -5,7 +5,6 @@
 <p>
   <a href="https://t.me/Gigabait15"><img src="https://img.shields.io/badge/Telegram-@Gigabait15-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
   <a href="mailto:Workkerbecov@yandex.ru"><img src="https://img.shields.io/badge/Email-Workkerbecov@yandex.ru-FC3F1D?style=flat-square&logo=maildotru&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=gigabait15&color=3399FF&style=flat-square&label=Profile+views" />
 </p>
 
 </div>
@@ -102,7 +101,4 @@ Fullstack-разработчик (**Python / React**) с сильной эксп
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=gigabait15&theme=tokyonight&hide_border=true" />
-</p>
-<p align="center">
-  <img src="https://ghchart.rshah.org/3399FF/gigabait15" width="100%" />
 </p>
