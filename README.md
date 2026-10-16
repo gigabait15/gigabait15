@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=Привет!+Я+Евгений+Кербецов+👋;Python+Backend+%2F+Fullstack+Developer;FastAPI+•+React+•+PostgreSQL+•+AI-сервисы;5+лет+коммерческой+разработки" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3399FF&center=true&vCenter=true&width=600&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%21%20%D0%AF%20%D0%95%D0%B2%D0%B3%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%9A%D0%B5%D1%80%D0%B1%D0%B5%D1%86%D0%BE%D0%B2%20%F0%9F%91%8B;Python%20Backend%20%2F%20Fullstack%20Developer;FastAPI%20%E2%80%A2%20React%20%E2%80%A2%20PostgreSQL%20%E2%80%A2%20AI-%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D1%8B;5%20%D0%BB%D0%B5%D1%82%20%D0%BA%D0%BE%D0%BC%D0%BC%D0%B5%D1%80%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B9%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D0%B8" alt="Typing SVG" />
 
 <p>
   <a href="https://t.me/Gigabait15"><img src="https://img.shields.io/badge/Telegram-@Gigabait15-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
