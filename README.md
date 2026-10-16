@@ -104,5 +104,5 @@ Fullstack-разработчик (**Python / React**) с сильной эксп
   <img src="https://streak-stats.demolab.com?user=gigabait15&theme=tokyonight&hide_border=true" />
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gigabait15&theme=tokyonight&area=true&hide_border=true" width="100%" />
+  <img src="https://ghchart.rshah.org/3399FF/gigabait15" width="100%" />
 </p>
